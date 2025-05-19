@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you find our approach interesting for your own work, please cite it as below."
+authors:
+  - family-names: Schrodi
+    given-names: Simon
+  - family-names: Schur
+    given-names: Julian
+  - family-names: Argus
+    given-names: Max
+  - family-names: Brox
+    given-names: Thomas
+title: "Selective Concept Bottleneck Models Without Predefined Concepts"
+version: 0.1.0
+url: "https://github.com/lmb-freiburg/ucbm"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Schrodi
+    given-names: Simon
+  - family-names: Schur
+    given-names: Julian
+  - family-names: Argus
+    given-names: Max
+  - family-names: Brox
+    given-names: Thomas
+  url: "https://openreview.net/forum?id=PMO30TLI4l"
+  collection-title: "Transactions on Machine Learning Research"
+  title: "Selective Concept Bottleneck Models Without Predefined Concepts"
+  year: 2025
